@@ -1,0 +1,7 @@
+ipython
+ipdb
+black
+jedi
+pip-tools
+pytest
+faker
